@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  ୨୧ 𝓬𝓪𝓷𝓷𝓲 ୨୧ <img src="bcx12g.webp" width="20">
+  ¢αηηι∂єяє <img src="bcx12g.webp" width="18">
 </p>
 
 <p align="center">
