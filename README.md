@@ -1,6 +1,6 @@
  ᯠ 𓇮 ᯄ
 <p align="center">
-  <img src="ronald-van-egdom-hallow3.gif" width="700">
+  <img src="50_sin_titulo_20260906230047.webp" width="700">
 </p>
 
 <p align="center">
