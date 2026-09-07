@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  𝒞annidere ♫
+  𝒞annidere 🦄
 </p>
 
 <p align="center">
