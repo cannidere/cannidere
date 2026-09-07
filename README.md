@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  ¢αηηι∂єяє <img src="bcx12g.webp" width="18">
+  𝒞𝒶𝓃𝓃𝒾𝒹𝑒𝓇𝑒 <img src="bcx12g.webp" width="18">
 </p>
 
 <p align="center">
