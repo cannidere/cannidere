@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ୨୧ 𝓬𝓪𝓷𝓷𝓲 ୨୧
+  𝒞annidere ♫
 </p>
 
 <p align="center">
