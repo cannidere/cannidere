@@ -28,9 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cannidere&show_icons=true&theme=transparent&hide_border=true" width="400">
-</p>
-
-<p align="center">
-  𝓽𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𓂃 ࣪˖ ִֶָ
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31enwsdluvwltxfvka3jr5onc7qa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=fed2ec&bar_color_cover=false">
+  </a>
 </p>
