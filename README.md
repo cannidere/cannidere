@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  𓂅  𝓬𝓪𝓷𝓷𝓲  𓂅  𝓬𝓸𝓭𝓲𝓷𝓰  𓂅  𝓬𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂  𓂅
+  𝑨𝓃𝓎 𝓅𝓇𝓃𝓈 (𝑺𝒉𝒆/𝒽𝑒𝓇 𝓅𝓇𝑒𝒻) <img src="he.webp" width="18">
 </p>
 
 <p align="center">
